@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: FitInfinite Logo
-datePublished: '2016-05-03T15:37:09.473Z'
-dateModified: '2016-05-03T15:36:59.388Z'
+datePublished: '2016-05-03T15:40:23.725Z'
+dateModified: '2016-05-03T15:40:09.760Z'
 title: ''
 author:
   - name: ''
@@ -24,4 +24,4 @@ starred: true
 _type: Blurb
 
 ---
-![FitInfinite Logo](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae8433fa-642e-4dc0-896a-434545af1e60.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/51e7362e3aae780bba553e912aea8d353e6836e1.png)
